@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NodeZero
+Comment=NodeZero P2P Cryptocurrency
+Comment[fr]=NodeZero, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=NodeZero, eşten eşe kriptografik sanal para birimi
+Exec=nodezero-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/nodezero;
+Categories=Office;Finance;

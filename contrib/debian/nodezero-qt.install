@@ -1,0 +1,6 @@
+usr/local/bin/nodezero-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/nodezero-qt.desktop usr/share/applications
+debian/nodezero-qt.protocol usr/share/kde4/services/

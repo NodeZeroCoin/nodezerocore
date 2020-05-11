@@ -1,0 +1,11 @@
+[Protocol]
+exec=nodezero-qt '%u'
+protocol=nodezero
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
